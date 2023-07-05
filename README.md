@@ -6,7 +6,7 @@
 - Intent Recognition: The chatbot uses a trained model to predict the intent of user inputs, allowing it to understand the purpose or meaning behind the messages.
 - Contextual Responses: Based on the predicted intent, the chatbot generates appropriate and contextual responses to engage in a meaningful conversation with users.
 - Preprocessing and Tokenization: The chatbot tokenizes user inputs, performs lemmatization, and removes unnecessary characters or punctuation for better understanding and processing.
-- Graphical User Interface: The chatbot provides a user-friendly GUI for users to interact with and receive responses in a visually appealing manner.
+- Graphical User Interface (Optional) : The chatbot provides a user-friendly GUI for users to interact with and receive responses in a visually appealing manner.
 - Training and Model Creation: The chatbot includes functionality to train the model using a predefined set of intents and their corresponding patterns and responses.
 - Persisting Data: The chatbot stores trained models, word dictionaries, and other necessary data using pickle to maintain state across different sessions.
 
